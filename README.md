@@ -17,3 +17,13 @@
 ## 8. Jaðartæki sjá um samskiptin á milli notendans og tölvunar.
 
 ## 9. Inntakstæki er t.d. lyklaborð, mús, og hljóðnemi.
+
+## 10.  Thermaltake View 27 ATX turnkassi - 16.990 Kr. (Tölvutek)
+##      Gigabyte FM2+ GA-F2A88XM-DS2P móðurborð - 12.990 kr. (Tölvutek)
+##      AMD Kaveri A10-7800 Quad örgjörvi, Radeon R7 skjákjarni, Retail - 20.990 kr. (Tölvutek)
+##      Gigabyte RX 480 G1 Gaming PCI-E3.0 skjákort 8GB GDDR5 - 54.990 kr. (Tölvutek)
+##      128GB SATA3 Plextor SSD 2.5'' M7VC - 9.990 kr. (Tölvutek)
+##      Thermaltake Riing 140mm kassavifta, svört með RGB LED lýsingu - 3.990 Kr. (Tölvutek)
+##      ADATA 16GB DDR3 2133MHz (2x8GB) XPG V1.0 vinnsluminni CL10 - 29.990 kr. (Tölvutek)
+##      Thermaltake Berlin 630W Smart aflgjafi, 80 Plus Bronze 14.990 Kr. (Tölvutek)
+       
