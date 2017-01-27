@@ -10,4 +10,6 @@
 
 ## 5. það sem þarf að íhuga með spennugjafa er að þeir gefi nóg til allt tengd því.
 
-## 6. fyrst þarf að finna hvað vandamálið er.
+## 6. fyrst þarf að finna hvað vandamálið er. Svo þarf að finna leið til að laga hana og svo fara á google.
+
+## 7. Opinn spurning er að spyrja einhvern t.d. hvernig voru jólinn. Lokuð spurning eru bara já og nei spurningar.
