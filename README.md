@@ -15,3 +15,5 @@
 ## 7. Opinn spurning er að spyrja einhvern t.d. hvernig voru jólinn. Lokuð spurning eru bara já og nei spurningar.
 
 ## 8. Jaðartæki sjá um samskiptin á milli notendans og tölvunar.
+
+## 9. Inntakstæki er t.d. lyklaborð, mús, og hljóðnemi.
