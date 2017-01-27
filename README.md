@@ -7,3 +7,5 @@
 ## 3. Fyrirbyggjandi viðhald er að halda upp tölvunni til að hún endist lengur, t.d. plása ryk af henni af og til, að hafa tölvunna í góðu loftstigi u.m.þ.b. 20C
 
 ## 4. ESD er stöðurafmagn og er ekki gott fyrir tölvubúnað. þú getur haft mottu sem er tengd við veggin og það er líka hægt að hafa armband.
+
+## 5. það sem þarf að íhuga með spennugjafa er að þeir gefi nóg til allt tengd því.
